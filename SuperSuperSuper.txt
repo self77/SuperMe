@@ -5,3 +5,5 @@ import matplotlib.pyplot as plt
 import math
 
 print("Loading data...")
+
+show()
