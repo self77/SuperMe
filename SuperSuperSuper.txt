@@ -4,4 +4,10 @@ from sklearn.cross_validation import train_test_split
 import matplotlib.pyplot as plt
 import math
 
+
+
+
+
+ 
+print("1234445678")
 print("Loading data...")
